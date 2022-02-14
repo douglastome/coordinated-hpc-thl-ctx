@@ -4,7 +4,8 @@ This repository contains the code used to perform the simulations reported in ou
 
 ```
 Tomé, D.F., Sadeh, S. & Clopath, C. Coordinated hippocampal-thalamic-cortical communication crucial for 
-engram dynamics underneath systems consolidation. Nat Commun 13, 840 (2022). https://doi.org/10.1038/s41467-022-28339-z
+engram dynamics underneath systems consolidation. Nat Commun 13, 840 (2022). 
+https://doi.org/10.1038/s41467-022-28339-z
 ```
 
 This file provides specific instructions to reproduce our key simulation results (Fig. 2C and Fig. 3A). All the remaining simulations and data analyses in the manuscript can also be reproduced with this source code by modifying simulation and data analysis parameters (see below).
